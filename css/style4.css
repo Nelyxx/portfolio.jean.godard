@@ -93,7 +93,7 @@ body {
 
 }
 #film a img {
-	margin: 15px;
+	margin: 1%;
 	float: left;
 	width: 23%;
 	height: 400px;
@@ -113,7 +113,7 @@ body {
 
 }
 #jeux a img{
-	margin: 10px;
+	margin: 0.5%;
 	float: left;
 	width: 32%;
 	height: 400px;
@@ -131,7 +131,7 @@ body {
 	background: black;
 }
 #galerie a img {
-	margin: 10px;
+	margin: 0.5%;
 	float: left;
 	width: 32%;
 	height: 400px;

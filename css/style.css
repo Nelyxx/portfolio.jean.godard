@@ -27,13 +27,13 @@ body {
 
 }
 
-.btn {
+#head nav ul li {
 	font-size: 33px;
 	padding: 40px;
 	display: inline-block;
 
 }
-.btn a{
+#head nav ul li a{
 	font-size: 30px;
 	color: white;
 	background-color: black;
@@ -43,7 +43,7 @@ body {
 
 }
 /*bouton animation*/
-.btn:hover a{
+#head nav ul li:hover a{
 	color: black;
 	background-color:white;
 	text-decoration: none;

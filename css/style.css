@@ -51,13 +51,9 @@ body {
 }
 
 
+/*boite milieu*/
 
 
-/* bandeau en haut*/
-
-/*#titre { background: #ffff; width:100%; text-align: center; position: fixed; }*/
-
-/*bandeau projet*/
 #bandeau {
 	text-align: center;
 	font-size:100px;
@@ -84,7 +80,7 @@ body {
 }
 
 
-
+/*boite accueil*/
 #accueil{
 	color: white;
 	margin-left: auto;
@@ -105,21 +101,10 @@ body {
 	text-decoration: underline;
 	font-weight: bold;
 }
+
 span {
 	text-decoration: underline;
 }
-/*
-footer {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	height: 50px;
-	background-color: black;
-}
-footer a {
-	float: right;
-}
-*/
 
 
 

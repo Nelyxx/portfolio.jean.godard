@@ -52,12 +52,8 @@ body {
 
 
 
+/*boite milieu*/
 
-/* bandeau en haut*/
-
-/*#titre { background: #ffff; width:100%; text-align: center; position: fixed; }*/
-
-/*bandeau projet*/
 #bandeau {
 	text-align: center;
 	font-size:100px;
@@ -82,7 +78,7 @@ body {
   	border: white 3px solid;
 }
 
-
+/*boite float*/
 
 #boitebac{
 	color: white;	
@@ -129,6 +125,7 @@ body {
 	clear: both;
 	margin-top: 30px;
 
+/*boite empile*/
 }
 #photo1{
 	width: 400px;

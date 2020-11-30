@@ -15,7 +15,7 @@ body {
 	background-image:url("noircube.jpg");
     background-size:100%;
     background-attachment:fixed;
-	 }
+}
 
 /*bouton*/
 #head{
@@ -49,6 +49,8 @@ body {
 	text-decoration: none;
 	transition: 0.3s all;
 }
+
+/*block du milieu*/
 #bandeau {
 	text-align: center;
 	font-size:100px;
@@ -74,22 +76,7 @@ body {
 }
 
 
-
-
-/*h1{
-	padding-left: 400px;
-	font-weight: bold;
-	font-size:100px;
-	color: purple;
-}
-	p.paragraphe1{
-		color: red;
-		background-color: blue;
-		opacity: 0.1;
-	}
-body {
-	background-color: #777;
-}*/
+/* logo*/
 
 .fa {
   padding: 40px;
